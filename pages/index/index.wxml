@@ -108,7 +108,7 @@
         <view class="section">
           <view class="section-info">
             <view class="section-seq">4</view>
-            <text class="section-title">项目经验</text>
+            <text class="section-title">工作经验</text>
           </view>
           <view class="edu" wx:for="{{work2}}" wx:key="item">
             <view class="school">
